@@ -7,6 +7,7 @@ This repository contains small practice files for learning JavaScript basics and
 - `chapter_01_Basics/`: introductory JavaScript and environment verification examples
 - `chapter_02_JavaScript_Concepts/`: basic JavaScript syntax and concepts
 - `chapter_03_identifier/`: identifier rules, naming conventions, comments, and keyboard shortcut notes
+- `chapter_04_JavaScript_Concepts/`: variable declarations (`var`, `let`, `const`), functions, scope, hoisting, and literal types
 
 ## Prerequisites
 
@@ -21,9 +22,11 @@ From the repository root, run any JavaScript file with Node:
 node chapter_01_Basics/03_JS_Verify_Setup.js
 node chapter_02_JavaScript_Concepts/05_JS_Basics.js
 node chapter_03_identifier/06_identifier_rules.js
+node chapter_04_JavaScript_Concepts/literal_types.js
 ```
 
 ## Notes
 
 - The markdown files in `chapter_03_identifier/` are shortcut reference notes for macOS and Windows.
 - The JavaScript files are intended as learning examples and experiments.
+- `chapter_04_JavaScript_Concepts/literal_types.js` covers all 10 JavaScript literal types: Number, String, Template, Boolean, Null, Undefined, Object, Array, RegExp, and BigInt.
