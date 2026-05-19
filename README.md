@@ -12,6 +12,10 @@ This repository contains small practice files for learning JavaScript basics and
 - `chapter_06_Operator/`: arithmetic and operator examples
 - Root operator examples: `35_Comparision_Operator.js` through `44_Null_Op.js`
 
+## Topics covered
+
+- Operators
+
 ## Prerequisites
 
 - Node.js installed

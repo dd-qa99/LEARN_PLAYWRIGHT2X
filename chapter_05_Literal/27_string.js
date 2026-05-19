@@ -11,6 +11,11 @@ let c = 'c';
 let c1 = 'cc';
 console.log(typeof c);
 console.log(typeof c1);
+console.log(double);
+
+// javascript prefer to use single quote.
+
+
 
 
 
