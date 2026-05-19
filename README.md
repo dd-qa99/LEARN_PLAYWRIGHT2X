@@ -10,7 +10,7 @@ This repository contains small practice files for learning JavaScript basics and
 - `chapter_04_JavaScript_Concepts/`: variables, functions, scope, and hoisting
 - `chapter_05_Literal/`: JavaScript literal examples and exercises
 - `chapter_06_Operator/`: arithmetic and operator examples
-- Root operator examples: `35_Comparision_Operator.js` through `44_Null_Op.js`
+- Operator practice files: `chapter_06_Operator/35_Comparision_Operator.js` through `chapter_06_Operator/47_Advanced_IncrementDecrement.js`
 
 ## Topics covered
 
@@ -31,7 +31,7 @@ node chapter_02_JavaScript_Concepts/05_JS_Basics.js
 node chapter_03_identifier/06_identifier_rules.js
 node chapter_05_Literal/23_null_undefined.js
 node chapter_06_Operator/30_Operator.js
-node 38_Confusing_Comparision.js
+node chapter_06_Operator/38_Confusing_Comparision.js
 ```
 
 ## Notes
