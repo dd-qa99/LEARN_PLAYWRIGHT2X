@@ -76,3 +76,7 @@ let feel = temp >= 40 ? "Very Hot" :
         temp >= 20 ? "Warm" :
             temp >= 10 ? "Chill" : "Cold";
 console.log("Temparate", temp, "Feel", feel);
+
+//  we dont use bitwise operator 
+//  AND , OR , XOR , NOT , LEFT SHIFT AND RIGHT SHIFT 
+

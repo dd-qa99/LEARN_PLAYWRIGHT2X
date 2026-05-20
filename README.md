@@ -10,11 +10,17 @@ This repository contains small practice files for learning JavaScript basics and
 - `chapter_04_JavaScript_Concepts/`: variables, functions, scope, and hoisting
 - `chapter_05_Literal/`: JavaScript literal examples and exercises
 - `chapter_06_Operator/`: arithmetic and operator examples
+- `chapter_07_if_else/`: conditional statements, examples, and Q&A
+- `chapter_08_Switch_Statement/`: switch statement usage and Q&A
+- `chapter_08_UserInput/`: user input examples using prompts and readline
 - Operator practice files: `chapter_06_Operator/35_Comparision_Operator.js` through `chapter_06_Operator/47_Advanced_IncrementDecrement.js`
 
 ## Topics covered
 
 - Operators
+- If/else
+- Switch statement
+- User input
 
 ## Prerequisites
 
@@ -32,6 +38,10 @@ node chapter_03_identifier/06_identifier_rules.js
 node chapter_05_Literal/23_null_undefined.js
 node chapter_06_Operator/30_Operator.js
 node chapter_06_Operator/38_Confusing_Comparision.js
+node chapter_07_if_else/56_EVEN_ODD.js
+node chapter_07_if_else/58_LEAP_YEAR_CHECK.js
+node chapter_08_Switch_Statement/59_Switch.js
+node chapter_08_UserInput/69_Nodejs_readline.js
 ```
 
 ## Notes

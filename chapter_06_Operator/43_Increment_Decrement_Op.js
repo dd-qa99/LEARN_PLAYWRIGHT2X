@@ -5,6 +5,8 @@
 
 let a = 10;
 let b = ++a;
-console.log(b);  // before assigning the value will be incremented and then assigned 
+console.log(b);  // before assigning the value will be incremented and then assigned  A WILL BECOME 11 
 console.log(a);
+
+//  expresion and result table (ERP)- trace
 
